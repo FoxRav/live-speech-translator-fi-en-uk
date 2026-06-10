@@ -42,8 +42,8 @@ Details: [docs/architecture.en.md](docs/architecture.en.md)
 ## Quick start
 
 ```powershell
-git clone https://github.com/YOUR_USER/live-speech-translator-fi.git
-cd live-speech-translator-fi
+git clone https://github.com/FoxRav/live-speech-translator-fi-en-uk.git
+cd live-speech-translator-fi-en-uk
 
 .\setup_backend.ps1
 .\install_torch_gpu.ps1      # optional, NVIDIA GPU
