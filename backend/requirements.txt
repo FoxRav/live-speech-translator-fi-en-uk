@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+websockets
+numpy
+sounddevice
+soundfile
+faster-whisper
+ctranslate2
+transformers>=4.44.0,<5.0
+accelerate
+sentencepiece
+# torch: GPU-versio asennetaan .\install_torch_gpu.ps1 (ei requirements.txt:sta)
+pydantic
+pydantic-settings
+python-dotenv
+sacremoses

@@ -1,0 +1,53 @@
+# Python
+.venv/
+venv/
+backend/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+*.pyc
+
+# Environment
+.env
+**/.env
+!.env.example
+!**/.env.example
+
+# Logs
+*.log
+backend/logs/*
+!backend/logs/.gitkeep
+
+# Models / ML artifacts (runtime cache — do not commit)
+backend/models/*
+!backend/models/.gitkeep
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
+*.wav
+*.mp3
+*.mp4
+*.onnx
+*.bin
+*.safetensors
+*.pt
+*.gguf
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Local planning (do not commit)
+tmp/
