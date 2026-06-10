@@ -123,7 +123,3 @@ Component docs: [backend/README.md](backend/README.md) · [frontend/README.md](f
 ## License
 
 MIT License — see [LICENSE](LICENSE). Copyright (c) 2026 Marko Virta.
-
-## GitHub topics
-
-`whisper` `faster-whisper` `speech-to-text` `real-time-translation` `finnish` `ukrainian` `english` `fastapi` `websocket` `react` `vite` `local-ai` `windows`
