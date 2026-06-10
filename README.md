@@ -28,6 +28,16 @@ Microphone → FastAPI backend (backend/.venv)
 
 Details: [docs/architecture.en.md](docs/architecture.en.md)
 
+## Screenshots
+
+### Browser UI
+
+![Live Speech Translator UI](assets/screenshots/live-translator-ui.png)
+
+### Translation output
+
+![Live translation output](assets/screenshots/live-translator-output.png)
+
 ## Requirements
 
 | Component | Minimum |

@@ -21,6 +21,16 @@ Headset-mikrofoni
 
 **Prioriteetti:** suomen puheentunnistuksen laatu (Whisper large-v3, beam-haku, hotwords, ASR-korjaukset, lausekohtainen käännös). Tekstiä ei sensuroida — kaikki tunnistettu puhe näkyy sellaisenaan.
 
+## Kuvakaappaukset
+
+### Selainkäyttöliittymä
+
+![Live Speech Translator UI](assets/screenshots/live-translator-ui.png)
+
+### Käännösnäkymä
+
+![Live translation output](assets/screenshots/live-translator-output.png)
+
 ## Pikakäynnistys
 
 ```powershell
